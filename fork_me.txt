@@ -1,2 +1,2 @@
 open source code
-udemedy course - last project
+Forking a repo allows you to make some experiments
