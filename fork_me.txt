@@ -1,4 +1,4 @@
 open source code
 
 
-added few empty lines and a long sentence to be commited and then initialize Pull Request
+added few empty lines and a long sentence to be commited and then initialize
