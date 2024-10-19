@@ -1,1 +1,3 @@
-open source code
+open source* code
+
+*Free and Open Source Software (FOSS) refers to software that is both freely available for users to use, modify, and distribute, and whose source code is openly shared. 
