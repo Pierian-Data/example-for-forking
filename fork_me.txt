@@ -1,1 +1,4 @@
 open source code
+Line two of my fork_me text file
+Line three added and commited
+The last line added on this open source code
