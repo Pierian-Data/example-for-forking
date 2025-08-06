@@ -1,1 +1,3 @@
+This fork_me.txt is to be used just as an example for students
+This is only to test the forking action from GitHub
 open source code
