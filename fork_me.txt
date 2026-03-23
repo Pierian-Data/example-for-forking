@@ -1,1 +1,2 @@
 open source code
+Fixed a small bug in this code
